@@ -1,0 +1,26 @@
+.titulo1{
+    text-align: center;
+}
+.titulo{
+    color: brown;
+    margin: 40px 40px;
+    grid-column: auto;
+}
+.titulo2{
+    
+   color: dodgerblue;
+}
+
+.titulo3{
+    max-width: 100;
+    text-align: center;
+    color: yellow;
+
+}
+
+.titulo4{
+    color: yellow;
+    margin: auto  ;
+}
+
+
